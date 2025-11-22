@@ -326,7 +326,7 @@
       <div class="car-card">
         <img src="https://carnewschina.com/wp-content/uploads/2022/04/aeolus-suv-1.jpg" alt="Mercedes AMG GT" sizes="2">
         <h3>2022 DONG FENG</h3>
-        <p>$23,000</p>
+        <p>$28,000</p>
       </div>
     </div>
   </section>
