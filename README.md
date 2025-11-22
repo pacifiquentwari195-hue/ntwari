@@ -259,7 +259,7 @@
   <section class="hero" id="home">
     <div class="hero-content">
       <h1>Drive the Car You Deserve</h1>
-      <p>Explore our premium collection of new and pre-owned vehicles at unbeatable prices at LIZHENG Automobile.</p>
+      <p>Explore our premium collection of new and pre-owned vehicles at unbeatable prices here at LIZHENG Automobile Company-RWANDA.</p>
       <a href="#cars" class="btn">View Inventory</a>
     </div>
   </section>
