@@ -153,11 +153,9 @@
     text-align: center;
     padding: 1.5rem 0;
   }
-
   /* ---------- RESPONSIVE ---------- */
   @media (max-width: 768px) {
-
-    header {
+  header {
       padding: 0.8rem 5%;
       text-align: center;
       flex-direction: column;
@@ -183,7 +181,9 @@
     .hero p {
       font-size: 0.9rem;
     }
+  
   }
+
 </style>
 </head>
 
@@ -219,7 +219,7 @@
       <div class="car-card">
         <img src="https://static-content-live.caricarz.com/media_library/post/17281/15167284/conversions/11-full_normal.jpg" alt="BMW M4">
         <h3>2025 TOYOTA BZ3X</h3>
-        <p>41,000,000</p>
+        <p>41,000,000 RWF</p>
       </div>
       <div class="car-card">
         <img src="https://i1.autocango.com/spec/fb47f590193b49c5a663adc75c821da2f486b47ff3ea63dbbfd2e166389eaca7.webp?x-image-process=image/resize,h_900/imageslim" alt="Mercedes AMG GT">
