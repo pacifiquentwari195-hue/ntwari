@@ -224,7 +224,7 @@
       <div class="car-card">
         <img src="https://i1.autocango.com/spec/fb47f590193b49c5a663adc75c821da2f486b47ff3ea63dbbfd2e166389eaca7.webp?x-image-process=image/resize,h_900/imageslim" alt="Mercedes AMG GT">
         <h3>2024 BYD song plus</h3>
-        <p>29,000,000 RWF</p>
+        <p>38,000,000 RWF</p>
       </div>
       <div class="car-card">
         <img src="https://guangcaiauto.com/wp-content/uploads/2024/08/Chery-iCAR-03-picture-10.webp" alt="Mercedes AMG GT">
