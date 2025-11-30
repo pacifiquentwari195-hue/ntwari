@@ -15,7 +15,7 @@
 
   body {
     font-family: 'Poppins', sans-serif;
-    color: red;
+    color: #222;
     background-color: #fcfbfb;
     line-height: 1.6;
     overflow-x: hidden;
